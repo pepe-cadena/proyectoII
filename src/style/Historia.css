@@ -1,42 +1,17 @@
 
 
-.todo {
-  text-align: right;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-weight: 700;
-  margin: -2px 0px 5px 280px;
-  padding-left: 8px;
-  padding-right: 8px;
-  background-color: #eb5a46;
-  color: #fff;
-  border-radius: 5px;
-  width: 72px;
-}
-
-.doing {
-  text-align: right;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-weight: 700;
-  margin: -27px 0px 5px 650px;
-  padding-left: 8px;
-  padding-right: 8px;
-  background-color: #f2d600;
-  color: #fff;
-  border-radius: 5px;
-  width: 72px;
-}
-
 .done {
   text-align: right;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: 700;
-  margin: -23px 0px 5px 1035px;
+  font-size: 35px;
+  margin: 5px 0px 15px 515px;
   padding-left: 8px;
   padding-right: 8px;
   background-color: #61bd4e;
   color: #fff;
   border-radius: 5px;
-  width: 72px;
+  width: 123px;
 }
 
 .tarjetas {
