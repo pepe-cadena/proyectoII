@@ -1,0 +1,125 @@
+
+
+.todo {
+  text-align: right;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 700;
+  margin: -2px 0px 5px 280px;
+  padding-left: 8px;
+  padding-right: 8px;
+  background-color: #eb5a46;
+  color: #fff;
+  border-radius: 5px;
+  width: 72px;
+}
+
+.doing {
+  text-align: right;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 700;
+  margin: -27px 0px 5px 650px;
+  padding-left: 8px;
+  padding-right: 8px;
+  background-color: #f2d600;
+  color: #fff;
+  border-radius: 5px;
+  width: 72px;
+}
+
+.done {
+  text-align: right;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 700;
+  margin: -23px 0px 5px 1035px;
+  padding-left: 8px;
+  padding-right: 8px;
+  background-color: #61bd4e;
+  color: #fff;
+  border-radius: 5px;
+  width: 72px;
+}
+
+.tarjetas {
+  width: 360px;
+  height: 130px;
+  margin: 5px;
+  border-radius: 7px;
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1 1;
+  align-items: center;
+  justify-items: center;
+  border-radius: 5px;
+  border: 1px solid black;
+  background-color: #fff;
+  box-shadow: 0 1px 5px 1px;
+}
+
+.contenedor-tarjetas {
+  width: 100%;
+  height: 100%;
+  margin: 2px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.numero {
+  margin: 5px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 700;
+}
+
+.contenido {
+  margin: 5px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.desarrollo {
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 700;
+  margin: 5px 0 0 5px;
+  padding-left: 5px;
+  background-color: #CAB463;
+  color: #fff;
+  border-radius: 5px;
+  width: 95px;
+}
+
+.diseno {
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 700;
+  color: #fff;
+  margin: 10px 0 0 5px;
+  padding-left: 5px;
+  width: 67px;
+  background-color: #75BFCA;
+  border-radius: 5px;
+}
+
+.documentacion {
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 700;
+  color: #fff;
+  margin: 5px 0 0 5px;
+  padding-left: 5px;
+  width: 138px;
+  background-color: #C8C5C4;
+  border-radius: 5px;
+}
+
+.testing {
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 700;
+  color: #fff;
+  margin: 5px;
+  padding-left: 5px;
+  width: 75px;
+  background-color: #E2BBE0;
+  border-radius: 5px;
+}
